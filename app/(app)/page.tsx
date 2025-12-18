@@ -21,7 +21,7 @@ export default function Page() {
         <Features />
       </div>
       <HowItWorks />
-      <Testimonials />
+      <testimonials />
       <FAQ />
       <CallToAction />
       <div id="contact">
